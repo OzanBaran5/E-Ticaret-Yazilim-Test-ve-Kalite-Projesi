@@ -11,8 +11,8 @@
 | Metrik | Değer |
 |---|---|
 | Toplam Test Senaryosu | 20 |
-| ✅ Başarılı (PASS) | 13 |
-| ❌ Başarısız (FAIL) | 7 |
+| ✅ Başarılı (PASS) | 14 |
+| ❌ Başarısız (FAIL) | 6 |
 | Tespit Edilen Bug Sayısı | 6 |
 
 ---
